@@ -1,7 +1,7 @@
 # 🍳 Kitchen Guide - Кухонный помощник
 
 <div align="center">
-  <img src="/docs/kitchen-main-interface.png" alt="Kitchen Guide Interface" width="700"/>
+  <img src="docs/Start.png" alt="Kitchen Guide Interface" width="700"/>
   <p><em>Главное окно приложения Kitchen Guide</em></p>
 </div>
 
@@ -31,25 +31,25 @@
 
 ### Поиск и выбор рецептов
 <div align="center">
-  <img src="docs/search-recipes.png" alt="Поиск рецептов" width="600"/>
+  <img src="docs/Lifehacks.png" alt="Поиск рецептов" width="600"/>
   <p><em>Окно поиска рецептов по ингредиентам</em></p>
 </div>
 
 ### Просмотр рецепта
 <div align="center">
-  <img src="docs/recipe-view.png" alt="Просмотр рецепта" width="600"/>
+  <img src="docs/Recipe.png" alt="Просмотр рецепта" width="600"/>
   <p><em>Детальный просмотр рецепта с фотографией</em></p>
 </div>
 
 ### Добавление нового рецепта
 <div align="center">
-  <img src="docs/add-recipe.png" alt="Добавление рецепта" width="600"/>
+  <img src="docs/Create.png" alt="Добавление рецепта" width="600"/>
   <p><em>Форма добавления нового рецепта</em></p>
 </div>
 
 ### Справочник
 <div align="center">
-  <img src="docs/handbook.png" alt="Справочник" width="600"/>
+  <img src="docs/Menu.png" alt="Справочник" width="600"/>
   <p><em>Раздел справочника с кулинарной информацией</em></p>
 </div>
 
